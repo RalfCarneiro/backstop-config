@@ -1,4 +1,4 @@
-##backstop-config
+backstop-config
 Um projeto de exemplo com uma implementação simples de testes do BackstopJS que pode ser usado por qualquer pessoa que precise executar testes de comparação de capturas de tela em páginas web estáticas que possuem URLs relativos diferentes.
 Por exemplo:
 <http://example.com>,
